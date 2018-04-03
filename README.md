@@ -1,2 +1,2 @@
 # Isbit
-Repository for extract interface queries
+Repository to keep versions for extract Alendum interface queries
